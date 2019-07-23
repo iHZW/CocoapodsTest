@@ -1,0 +1,16 @@
+PODS:
+  - CocoapodsTest (0.1.0)
+
+DEPENDENCIES:
+  - CocoapodsTest (from `../`)
+
+EXTERNAL SOURCES:
+  CocoapodsTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoapodsTest: d055fbd63e0aee4b8ff9aa6a18bc810f0581698a
+
+PODFILE CHECKSUM: ca1cb21ab1babd4a7f281dbc82f1ba0ee9b02d48
+
+COCOAPODS: 1.7.1
